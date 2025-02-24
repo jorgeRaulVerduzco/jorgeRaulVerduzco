@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Jorge Raul Verduzco Mora
+# ¡Hi! 👋  I'm Jorge Raul Verduzco Mora
 
 *"The night belongs
 to those
