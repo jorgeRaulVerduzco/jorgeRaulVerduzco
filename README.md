@@ -2,7 +2,10 @@
 
 *"The night belongs<br/>
 to those<br/>
-who commit.🦇"*
+who commit.🦇"*<div style="display: flex; justify-content: right; align-items: right; margin-top: 20px;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6mgxc75tu3489b6j6og79lrsm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify" width="200" height="200" style="margin-right: 20px;">
+    <img src="https://64.media.tumblr.com/0ea83e1b98da48d2fa65e096afd9ffb0/tumblr_np13mlXqc61t4034jo1_r2_400.gif" alt="coding" width="200" height="200">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorgendo43) 
