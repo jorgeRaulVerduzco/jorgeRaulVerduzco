@@ -1,7 +1,7 @@
 # ¡Hi! 👋  I'm Jorge Raul Verduzco Mora
 
-*"The night belongs
-to those
+*"The night belongs<br/>
+to those<br/>
 who commit.🦇"*
 
 ## 🌐 Socials:
