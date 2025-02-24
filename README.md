@@ -1,8 +1,13 @@
-# ¡Hi! 👋  I'm Jorge Raul Verduzco Mora
-
-*"The night belongs<br/>
-to those<br/>
-who commit.🦇"*<img src="https://64.media.tumblr.com/0ea83e1b98da48d2fa65e096afd9ffb0/tumblr_np13mlXqc61t4034jo1_r2_400.gif" alt="coding" width="200" height="200">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        # ¡Hi! 👋  I'm Jorge Raul Verduzco Mora  
+        <br>
+        *"The night belongs<br/>
+        to those<br/>
+        who commit.🦇"*
+    </div>
+    <img src="https://64.media.tumblr.com/0ea83e1b98da48d2fa65e096afd9ffb0/tumblr_np13mlXqc61t4034jo1_r2_400.gif" alt="coding" width="200" height="200">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorgendo43) 
