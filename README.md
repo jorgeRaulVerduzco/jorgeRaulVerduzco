@@ -1,8 +1,9 @@
 # ¡Hi! 👋  I'm Jorge Raul Verduzco Mora  
 <img src="https://64.media.tumblr.com/0ea83e1b98da48d2fa65e096afd9ffb0/tumblr_np13mlXqc61t4034jo1_r2_400.gif" alt="coding" width="200" height="120" align="right">
-*"The night belongs<br/>
+
+***"The night belongs<br/>
 to those<br/>
-who commit.🦇"*  
+who commit.🦇"***
 
 
 
