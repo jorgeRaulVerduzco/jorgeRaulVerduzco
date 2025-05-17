@@ -32,6 +32,8 @@ who commit.🦇"***
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+[![](https://visitcount.itsvg.in/api?id=jorgeRaulVerduzco&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jorgeRaulVerduzco&icon=0&color=0)](https://visitcount.itsvg.in)
