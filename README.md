@@ -35,8 +35,8 @@ who commit.🦇"***
 
 ---
 <p align="center">
-      Veces visitado:<br>
-  <img src="https://komarev.com/ghpvc/?username=jorgeRaulVerduzco&label=Profile%20views&color=0e75b6&style=flat" alt="jorgeRaulVerduzco" />
+  Veces que han visitado mi perfil:<br>
+  <img src="https://komarev.com/ghpvc/?username=jorgeRaulVerduzco&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
 
 
