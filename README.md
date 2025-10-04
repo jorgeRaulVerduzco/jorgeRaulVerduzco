@@ -17,7 +17,8 @@ who commit.🦇"***
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,js,ts,python,html,css,nodejs,nestjs,mysql,mongodb,git,github,maven,figma,canva,tomcat" />
   </a>
 </p>
-## 📊 GitHub Stats:
+
+## 📊 Github Stacks 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=dark&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
