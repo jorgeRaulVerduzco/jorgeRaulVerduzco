@@ -18,10 +18,10 @@ who commit.🦇"***
   </a>
 </p>
 
-## 📊 Github Stacks 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=tokyonight&hide_border=true" style="vertical-align: top;" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="vertical-align: top;" height="170"/>
 </p>
 
 <p align="center">
