@@ -28,9 +28,10 @@ who commit.🦇"***
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+</p>
 ---
 <p align="center">
   Veces que han visitado mi perfil:<br>
