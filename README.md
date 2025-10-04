@@ -32,7 +32,7 @@ who commit.🦇"***
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=dark&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </p>
----
+
 <p align="center">
   Veces que han visitado mi perfil:<br>
   <img src="https://komarev.com/ghpvc/?username=jorgeRaulVerduzco&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
