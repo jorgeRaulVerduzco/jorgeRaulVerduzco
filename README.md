@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header"/>
 
 ## ¡Hi! 👋  I'm Jorge Raul Verduzco Mora  
-<img src="https://64.media.tumblr.com/0ea83e1b98da48d2fa65e096afd9ffb0/tumblr_np13mlXqc61t4034jo1_r2_400.gif" alt="coding" width="200" height="120" align="right">
+<img src="https://64.media.tumblr.com/0ea83e1b98da48d2fa65e096afd9ffb0/tumblr_np13mlXqc61t4034jo1_r2_400.gif" alt="coding" width="200" height="120" align="right" style="vertical-align: top; margin-top: -10px;">
 
 ***"The night belongs<br/>
 to those<br/>
