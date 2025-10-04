@@ -6,7 +6,6 @@ to those<br/>
 who commit.🦇"***
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorgendo43) 
@@ -30,5 +29,6 @@ who commit.🦇"***
   <img src="https://komarev.com/ghpvc/?username=jorgeRaulVerduzco&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
