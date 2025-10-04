@@ -18,10 +18,12 @@ who commit.🦇"***
   </a>
 </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=tokyonight&hide_border=false)
+## 📊 Github Stacks 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeRaulVerduzco&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeRaulVerduzco&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
   Veces que han visitado mi perfil:<br>
