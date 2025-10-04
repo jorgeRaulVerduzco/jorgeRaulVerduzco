@@ -14,7 +14,7 @@ who commit.🦇"***
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,js,ts,python,html,css,nodejs,nestjs,mysql,mongodb,git,github,maven,figma,canva,tomcat" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,js,ts,python,html,css,nodejs,express,nestjs,mysql,mongodb,git,github,maven,figma,canva,tomcat" />
   </a>
 </p>
 
