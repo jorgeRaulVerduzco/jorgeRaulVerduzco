@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header"/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Developer+%F0%9F%A6%87;Night+Coder+%F0%9F%A6%87;Java+%7C+Spring+%7C+JavaScript;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Night+Developer+%F0%9F%A6%87;Java+%7C+Spring+%7C+JavaScript;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ## ¡Hi! 👋  I'm Jorge Raul Verduzco Mora
